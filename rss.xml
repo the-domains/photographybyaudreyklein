@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[PhotographybyAudreyKlein]]></title>
+        <description><![CDATA[PhotographybyAudreyKlein]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 09 Jan 2016 17:40:08 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Photography by Audrey Klein]]></title>
+            <description><![CDATA[<article><h1>Photography by Audrey Klein</h1><p>undefined</p></article>]]></description>
+            <link>undefinedphotography-by-audrey-klein/index.html</link>
+            <guid isPermaLink="false">17c2c2e4-3760-464c-81d7-2a11d0d14609</guid>
+            <pubDate>Sat, 09 Jan 2016 17:40:02 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
