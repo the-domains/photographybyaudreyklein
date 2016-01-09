@@ -1,7 +1,7 @@
 name: PhotographybyAudreyKlein
 favicon: null
-layout_spectrum: 0.3928818511776626
-typography_spectrum: 0.06677622604183853
+layout_spectrum: 1
+typography_spectrum: 0.73453
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#d4d0cd'
+    - '#332927'
+    - '#857051'
+    - '#585939'
+    - '#c8af90'
   brandStrength: 0.24273081589490175
   lightness: 0.26963955676183105
   saturation: 0.16397104528732598
