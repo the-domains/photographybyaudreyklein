@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[PhotographybyAudreyKlein]]></title>
         <description><![CDATA[PhotographybyAudreyKlein]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/photographybyaudreyklein/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 09 Jan 2016 17:40:08 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 09 Jan 2016 17:49:15 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/photographybyaudreyklein/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Photography by Audrey Klein]]></title>
-            <description><![CDATA[<article><h1>Photography by Audrey Klein</h1><p>undefined</p></article>]]></description>
-            <link>undefinedphotography-by-audrey-klein/index.html</link>
+            <description><![CDATA[<article><h1>Photography by Audrey Klein</h1><p>Southwest Michigan Wedding Photographer</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/228f31a9f11107dff8baaa9eaa7a1c5f91cbf056.jpg"></article>]]></description>
+            <link>https://thegrid.ai/photographybyaudreyklein/photography-by-audrey-klein/index.html</link>
             <guid isPermaLink="false">17c2c2e4-3760-464c-81d7-2a11d0d14609</guid>
-            <pubDate>Sat, 09 Jan 2016 17:40:02 GMT</pubDate>
+            <pubDate>Sat, 09 Jan 2016 17:49:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
